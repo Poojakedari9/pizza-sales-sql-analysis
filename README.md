@@ -45,5 +45,5 @@ The project utilizes **4 distinct interconnected relational tables**:
 
 ## 📂 Project Deliverables Available
 * **`pizza_queries.sql`**: Full end-to-end MySQL scripts for financial metrics calculation.
-* **`pizza_sales_presentation.pptx`**: Executive-level PowerPoint slides summarizing key business recommendations for stakeholders.
+* **`Pizza_Factory_Data_Insights.pptx`**: Executive-level PowerPoint slides summarizing key business recommendations for stakeholders.
 
