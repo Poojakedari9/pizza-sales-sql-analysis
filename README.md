@@ -1,4 +1,4 @@
-# Pizza Hut Sales Performance - End-to-End SQL Analysis
+# Pizza Factory Sales Performance - End-to-End SQL Analysis
 
 ## 📌 Project Overview
 This project performs a comprehensive data analysis of a year's transactional data for a pizza factory/store using **MySQL**. The objective is to discover key business performance indicators (KPIs), examine seasonal and daily ordering trends, and understand product-level sales velocity to optimize inventory.
